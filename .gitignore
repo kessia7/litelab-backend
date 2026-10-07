@@ -1,4 +1,3 @@
 *.class
 *.log
 .env
-postgresql-42.7.13.jar
